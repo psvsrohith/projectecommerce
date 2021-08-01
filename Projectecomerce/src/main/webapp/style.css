@@ -1,0 +1,36 @@
+a:hover{
+   background-color:white;
+}
+.search {
+  border: 1px solid grey;
+  float: left;
+  font-size: 22px;
+  size:22px;
+  background: #f1f1f1;
+}
+.address:hover{
+  background-color: green;
+}
+#indexnav{
+  background-color:#78DEC7;
+}
+#list{
+  background-color:#ffdecf;
+
+}
+button {
+  background:orange;
+  color: white;
+  font-size: 30px;
+  border: 1px solid grey;
+  border-left: none; 
+}
+
+button:hover 
+{
+  background:blue;
+}
+#dummyimage{
+  min-height:100vh;
+  min-width: 100vw;
+}
